@@ -1,4 +1,4 @@
-package fetch
+package ch3
 
 import "fmt"
 
