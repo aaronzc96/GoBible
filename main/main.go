@@ -40,4 +40,5 @@ func main() {
 	data := []string{"one", "", "three"}
 	fmt.Println(ch4.Nonempty(data))
 	fmt.Println(data)
+
 }
